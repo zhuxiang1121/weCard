@@ -1,13 +1,10 @@
 Page(
   {
     data :{
-      num:"0"
+      name:"张三",
+      phonenumber:"1234567",
+      qqnumber:"1234567",
+      email:"1234567@12345" 
     },
-    handleinput(e){
-      //console.log(e.detail.value)
-      this.setData(
-        {num:e.detail.value}
-      )
-    }
   }
 )
