@@ -1,0 +1,6 @@
+.hello{
+  color:black;
+  font-size:28rpx;
+  margin-left: 20rpx;
+  margin-top: 20rpx;
+}

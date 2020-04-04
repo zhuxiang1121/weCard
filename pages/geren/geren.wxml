@@ -1,0 +1,10 @@
+<view>{{msg}}</view>
+<view
+ wx:for="{{list}}"
+ wx:for-item="item"
+ wx:for-index="index"
+ wx:key="id">
+顺序：{{index}}
+--
+名字:{{item.name}}
+</view>
