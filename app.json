@@ -16,21 +16,15 @@
     "list": [
       {
         "pagePath": "pages/hello/hello",
-        "text": "主页",
-        "iconPath": "icon/shouye.png",
-        "selectedIconPath": "icon/_shouye.png"
-      },
-      {
-        "pagePath": "pages/index/index",
-        "text": "发现",
-        "iconPath": "icon/dengpaotishi.png",
-        "selectedIconPath": "icon/_dengpaotishi.png"
+        "text": "名片",
+        "iconPath": "icon/yonghu.png",
+        "selectedIconPath": "icon/_yonghu.png"
       },
       {
         "pagePath": "pages/geren/geren",
-        "text": "我的",
-        "iconPath": "icon/yonghu.png",
-        "selectedIconPath": "icon/_yonghu.png"
+        "text": "产品",
+        "iconPath": "icon/dengpaotishi.png",
+        "selectedIconPath": "icon/_dengpaotishi.png"
       }
     ]
   },
