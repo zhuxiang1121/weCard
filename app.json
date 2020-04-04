@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/hello/hello",
+    "pages/index/index",
+    "pages/geren/geren",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/hello/hello",
+        "text": "主页",
+        "iconPath": "icon/shouye.png",
+        "selectedIconPath": "icon/_shouye.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "发现",
+        "iconPath": "icon/dengpaotishi.png",
+        "selectedIconPath": "icon/_dengpaotishi.png"
+      },
+      {
+        "pagePath": "pages/geren/geren",
+        "text": "我的",
+        "iconPath": "icon/yonghu.png",
+        "selectedIconPath": "icon/_yonghu.png"
+      }
+    ]
+  },
+  "setmapLocation": "setmap.json",
+  "sitemapLocation": "sitemap55.json"
+}
